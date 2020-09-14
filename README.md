@@ -1,9 +1,9 @@
 # BonusTask
 
-<h2>Methods:</h2>
+<h3>Methods:</h3>
 
-<h3>printBonusDatesBetween</h3> 
+<h4>printBonusDatesBetween</h4> 
 Filters and prints dates
 
-<h3>isValidDate</h3>
+<h4>isValidDate</h4>
 Checks if date is real
